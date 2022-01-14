@@ -1,0 +1,1 @@
+- [价值大师](https://www.gurufocus.cn/dashboard)
