@@ -7,3 +7,4 @@
 ## 必刷
 - [共产党员网](https://www.12371.cn)
 - [中国人民银行](http://www.pbc.gov.cn)
+- [国家统计局](http://www.stats.gov.cn)
