@@ -4,6 +4,7 @@
 - [东方财富](https://www.eastmoney.com/)
 - [同花顺](https://www.10jqka.com.cn/)
 - [金十数据](https://www.jin10.com/)
+- [萝卜投研](https://robo.datayes.com/)
 ## 必刷
 - [共产党员网](https://www.12371.cn)
 - [中国人民银行](http://www.pbc.gov.cn)
